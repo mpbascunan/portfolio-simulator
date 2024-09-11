@@ -1,4 +1,4 @@
-# Portfolio simulator
+# Portfolio Simulator
 
 To run this program:
 
@@ -6,4 +6,4 @@ To run this program:
 ruby main.rb
 ```
 
-Then enter investment dates, and it will show the profit and annualized return of the portfolio.
+Enter the investment dates when prompted, and the program will display the profit and annualized return of the portfolio.
